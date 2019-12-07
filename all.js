@@ -1,5 +1,3 @@
-// https://segmentfault.com/a/1190000009826648
-
 var chessBoard = []; //儲存棋盤上落子的情況
 
 var me = true;
